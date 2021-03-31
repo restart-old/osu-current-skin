@@ -39,4 +39,4 @@ if __name__ == '__main__':
 
 # Dev: @RestartFU
 # Version: 0.1
-# Credits: Nozzle's Teams
+# Credits: Nozzle's Team
